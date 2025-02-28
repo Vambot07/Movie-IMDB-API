@@ -35,8 +35,14 @@ Install dependencies:
 ```bash
 npm install
 ```
-## Compiling SCSS to CSS
 
+## Adding jQuery via CDN
+To use jQuery, add the following CDN link inside the <head> or before the closing <body> tag in index.html:
+```bash
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+```
+
+## Compiling SCSS to CSS
 To convert SCSS to CSS, use the following command:
 ```bash
 npm run build
@@ -57,10 +63,10 @@ npx node-sass --watch scss/style.scss style.css
 - Click on a movie to view its details in a modal.
 
 ## Technologies Used
-1. HTML, CSS, JavaScript
-2. Bootstrap 5 for responsive design
-3. SCSS for styling
-4. jQuery for handling DOM interactions
+1. **HTML**, **CSS**, **JavaScript**
+2. **Bootstrap 5** for responsive design
+3. **SCSS** for styling
+4. **jQuery** for handling DOM interactions
 
 
 ## Custom Styling
