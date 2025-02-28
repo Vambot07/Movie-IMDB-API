@@ -9,6 +9,7 @@ A simple web-based movie search application that allows users to search for movi
 - Responsive UI using Bootstrap 5.
 - Styled with SCSS for better customization.
 
+
 ## Project Structure
   ```plaintext
 ├── node_modules
@@ -21,6 +22,7 @@ A simple web-based movie search application that allows users to search for movi
 ├── style.css
 ├── style.css.map
 ```
+
 
 ## Installation
 
@@ -48,21 +50,20 @@ For automatic compilation when changes are made, use:
 npx node-sass --watch scss/style.scss style.css
 ```
 
-## Usage
 
+## Usage
 - Open index.html in a browser to start using the application.
 - Enter a movie title in the search bar and click the search button.
 - Click on a movie to view its details in a modal.
 
 ## Technologies Used
-
 1. HTML, CSS, JavaScript
 2. Bootstrap 5 for responsive design
 3. SCSS for styling
 4. jQuery for handling DOM interactions
 
-## Custom Styling
 
+## Custom Styling
 The project includes a custom SCSS setup with a defined theme color:
 ```scss
 $theme-colors: map-merge($theme-colors, ("cyan-900": #004b54));
@@ -71,9 +72,7 @@ $theme-colors: map-merge($theme-colors, ("cyan-900": #004b54));
 }
 ```
 ## Contributing
-
 Feel free to fork this repository and submit a pull request with any improvements.
 
 ## Author
-
 Developed by Muhammad Salihin @ Vambot07.
