@@ -4,13 +4,10 @@ A simple web-based movie search application that allows users to search for movi
 
 ## Features
 
-Search for movies using a keyword.
-
-Display movie details in a modal popup.
-
-Responsive UI using Bootstrap 5.
-
-Styled with SCSS for better customization.
+- Search for movies using a keyword.
+- Display movie details in a modal popup.
+- Responsive UI using Bootstrap 5.
+- Styled with SCSS for better customization.
 
 ## Project Structure
   ```plaintext
