@@ -25,7 +25,7 @@ Styled with SCSS for better customization.
 ├── style.css.map
 ```
 
-# Installation
+## Installation
 
 Clone the repository:
 ```bash
@@ -36,9 +36,19 @@ Install dependencies:
 ```bash
 npm install
 ```
-Compile SCSS to CSS (if needed):
+## Compiling SCSS to CSS
+
+To convert SCSS to CSS, use the following command:
 ```bash
 npm run build
+```
+Alternatively, if you are using node-sass, you can run:
+```bash
+npx node-sass scss/style.scss style.css
+```
+For automatic compilation when changes are made, use:
+```bash
+npx node-sass --watch scss/style.scss style.css
 ```
 
 ## Usage
