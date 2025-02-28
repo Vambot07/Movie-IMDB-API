@@ -38,7 +38,7 @@ npm install
 
 ## Adding jQuery via CDN
 To use jQuery, add the following CDN link inside the <head> or before the closing <body> tag in index.html:
-```bash
+```html
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 ```
 
