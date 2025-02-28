@@ -1,0 +1,12 @@
+// Import Bootstrap core SCSS functions and variables
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/bootstrap"; // Import full Bootstrap
+
+$theme-colors: map-merge($theme-colors, ("cyan-900": #004b54)); // Define a custom cyan-900 color
+
+.text-custom-cyan {
+  color: map-get($theme-colors, "cyan-900");
+}
