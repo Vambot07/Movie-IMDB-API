@@ -51,9 +51,7 @@ npx node-sass --watch scss/style.scss style.css
 ## Usage
 
 - Open index.html in a browser to start using the application.
-
 - Enter a movie title in the search bar and click the search button.
-
 - Click on a movie to view its details in a modal.
 
 ## Technologies Used
@@ -78,4 +76,4 @@ Feel free to fork this repository and submit a pull request with any improvement
 
 ## Author
 
-Developed by Muhammad Salihin.
+Developed by Muhammad Salihin @ Vambot07.
