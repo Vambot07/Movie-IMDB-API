@@ -58,13 +58,10 @@ npx node-sass --watch scss/style.scss style.css
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
-
-- Bootstrap 5 for responsive design
-
-- SCSS for styling
-
-- jQuery for handling DOM interactions
+1. HTML, CSS, JavaScript
+2. Bootstrap 5 for responsive design
+3. SCSS for styling
+4. jQuery for handling DOM interactions
 
 ## Custom Styling
 
