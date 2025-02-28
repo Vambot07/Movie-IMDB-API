@@ -1,4 +1,4 @@
-# Movie Database
+# IMDB Movie Database
 
 A simple web-based movie search application that allows users to search for movies using an API and view details in a modal.
 
