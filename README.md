@@ -23,3 +23,7 @@ Styled with SCSS for better customization.
 ├── script.js
 ├── style.css
 ├── style.css.map
+
+# Installation
+
+Clone the repository:
