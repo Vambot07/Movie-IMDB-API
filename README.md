@@ -1,8 +1,8 @@
-#Movie Database
+# Movie Database
 
 A simple web-based movie search application that allows users to search for movies using an API and view details in a modal.
 
-##Features
+## Features
 
 Search for movies using a keyword.
 
@@ -12,7 +12,14 @@ Responsive UI using Bootstrap 5.
 
 Styled with SCSS for better customization.
 
-##Project Structure
+## Project Structure
   ```plaintext
-├── node_modules ├── scss │ ├── style.scss ├── index.html ├── package-lock.json ├── package.json ├── script.js ├── style.css ├── style.css.map
-
+├── node_modules
+├── scss
+│   ├── style.scss
+├── index.html
+├── package-lock.json
+├── package.json
+├── script.js
+├── style.css
+├── style.css.map
