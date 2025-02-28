@@ -81,3 +81,7 @@ $theme-colors: map-merge($theme-colors, ("cyan-900": #004b54));
 ## Contributing
 
 Feel free to fork this repository and submit a pull request with any improvements.
+
+## Author
+
+Developed by Muhammad Salihin.
